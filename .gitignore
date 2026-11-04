@@ -1,0 +1,16 @@
+# Fichiers de données et images générés localement
+sqkd_dataset.csv
+*.png
+
+# Cache Python et environnements virtuels
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Paramètres de l'éditeur Visual Studio Code
+.vscode/
+
+# Variables d'environnement et secrets
+.env
